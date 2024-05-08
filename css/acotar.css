@@ -1,0 +1,21 @@
+
+/* main{
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+
+.left{
+    margin: auto;
+}
+
+.right{
+    margin: 2rem 2rem auto  auto;
+   
+} */
+
+footer{
+    
+    color: black;
+    text-align: center;
+    line-height: 1.5rem;
+}
